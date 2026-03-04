@@ -1,13 +1,11 @@
 # Rotating Flakes in Graphene / hBN Systems
-
-The repository is organized into two main folders:
+The repository is organized into two main folders. Each folder further contains subdirectories corresponding to two edge types: Armchair and Zigzag.
 
 Heterobilayer – Contains data and input files for graphene–hBN systems used to generate the figures in the manuscript.
 
-Homobilayer – Contains data and input files for graphene–graphene, hBN-hBN systems used in the analysis.
+Homobilayer – Contains data and input files for graphene–graphene, hBN-hBN systems used in the analysis (Supplementary).
 
 Each folder is further organized according to the figures presented in the manuscript.
-
 
 Prathap Kumar Jharapla, Nicolas Leconte, Zhiren He, Guru Khalsa, and Jeil Jung,
 Geometric Control of Twist Angle in Moiré Heterobilayer Flakes,
@@ -28,7 +26,7 @@ Homobilayer/
     Input files and analysis scripts for graphene flakes on graphene substrates
 ```
 
-Within each directory, subfolders correspond to the different analyses and figures presented in the manuscript.
+Within each directory, subfolders correspond to the different analyses and figures presented in the manuscript. Each figure folder further contains two sections corresponding to the edge types: Armchair and Zigzag
 
 Typical structure: Hetrobilayer
 
