@@ -19,7 +19,7 @@ https://arxiv.org/abs/2510.18694
 The repository is organized according to the physical systems studied in the work.
 
 ```
-Hetrobilayer/
+Heterobilayer/
     Input files and analysis scripts for graphene flakes on hBN substrates
 
 Homobilayer/
@@ -28,7 +28,7 @@ Homobilayer/
 
 Within each directory, subfolders correspond to the different analyses and figures presented in the manuscript. Each figure folder further contains two sections corresponding to the edge types: Armchair and Zigzag
 
-Typical structure: Hetrobilayer
+Typical structure: Heterobilayer
 
 ```
 Figure1/
