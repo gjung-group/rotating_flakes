@@ -54,10 +54,9 @@ Each figure directory contains the data files and plotting scripts used to gener
 
 Some large input files are stored using **Git Large File Storage (Git LFS)**.
 
-In both the Heterobilayer and Homobilayer directories, there are subfolders corresponding to simulations of flakes with a size of 50 Å. These folders contain the structural file BLBLNew.mol along with the corresponding LAMMPS input files required to run the simulations.
+In both the Heterobilayer and Homobilayer directories, there are subfolders corresponding to simulations of flakes with a size of 50 Å, with twist angles ranging from θ = 0° to 10°. These folders contain the structural file BLBLNew.mol along with the corresponding LAMMPS input files required to run the simulations.
 
 After cloning the repository, run:
-
 ```
 git lfs install
 git lfs pull
