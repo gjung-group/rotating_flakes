@@ -1,12 +1,18 @@
 # Rotating Flakes in Graphene / hBN Systems
 
-This repository contains the input files, data, and analysis scripts used in the study of rotational alignment and energetics of graphene flakes on hexagonal boron nitride (hBN).
+The repository is organized into two main folders:
 
-The repository accompanies the manuscript:
+Heterobilayer – Contains data and input files for graphene–hBN systems used to generate the figures in the manuscript.
 
-P. Jharapla et al.,
-*Geometric Control of Twist Angle in Moiré Heterobilayer Flakes*
-Physical Review B (Year).
+Homobilayer – Contains data and input files for graphene–graphene, hBN-hBN systems used in the analysis.
+
+Each folder is further organized according to the figures presented in the manuscript.
+
+
+Prathap Kumar Jharapla, Nicolas Leconte, Zhiren He, Guru Khalsa, and Jeil Jung,
+Geometric Control of Twist Angle in Moiré Heterobilayer Flakes,
+arXiv:2510.18694 (2025).
+https://arxiv.org/abs/2510.18694
 
 ---
 
