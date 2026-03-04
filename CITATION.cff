@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: Rotating Flakes in Graphene / hBN Systems
+message: "If you use this repository, please cite the associated publication."
+date-released: 2026-03-04
+repository-code: https://github.com/gjung-group/rotating_flakes
+license: MIT
+
+authors:
+  - family-names: Jharapla
+    given-names: Prathap Kumar
+  - family-names: Leconte
+    given-names: Nicolas
+  - family-names: He
+    given-names: Zhiren
+  - family-names: Khalsa
+    given-names: Guru
+  - family-names: Jung
+    given-names: Jeil
+
+preferred-citation:
+  type: article
+  title: Geometric control of the twist angle in moiré heterobilayer flakes
+  authors:
+    - family-names: Jharapla
+      given-names: Prathap Kumar
+    - family-names: Leconte
+      given-names: Nicolas
+    - family-names: He
+      given-names: Zhiren
+    - family-names: Khalsa
+      given-names: Guru
+    - family-names: Jung
+      given-names: Jeil
+  # Fill these in when available (or tell me and I'll update)
+  journal: ""
+  year: 2026
+  volume: ""
+  issue: ""
+  pages: ""
+  doi: ""
