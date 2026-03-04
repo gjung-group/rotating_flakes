@@ -21,7 +21,7 @@ https://arxiv.org/abs/2510.18694
 The repository is organized according to the physical systems studied in the work.
 
 ```
-Hetrobilayer_GBN/
+Hetrobilayer/
     Input files and analysis scripts for graphene flakes on hBN substrates
 
 Homobilayer/
@@ -30,7 +30,7 @@ Homobilayer/
 
 Within each directory, subfolders correspond to the different analyses and figures presented in the manuscript.
 
-Typical structure:
+Typical structure: Hetrobilayer
 
 ```
 Figure1/
@@ -38,6 +38,14 @@ Figure2/
 Figure3/
 Figure4/
 Figure5/
+```
+Typical structure: Homobilayer
+```
+FigureS5/
+FigureS6/
+FigureS7/
+FigureS8/
+FigureS9/
 ```
 
 Each figure directory contains the data files and plotting scripts used to generate the corresponding figure.
@@ -47,6 +55,8 @@ Each figure directory contains the data files and plotting scripts used to gener
 ## Large Input Files
 
 Some large input files are stored using **Git Large File Storage (Git LFS)**.
+
+In both the Heterobilayer and Homobilayer directories, there are subfolders corresponding to simulations of flakes with a size of 50 Å. These folders contain the structural file BLBLNew.mol along with the corresponding LAMMPS input files required to run the simulations.
 
 After cloning the repository, run:
 
