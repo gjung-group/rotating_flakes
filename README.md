@@ -101,9 +101,10 @@ This will regenerate the corresponding figure using the stored data files.
 
 If you use this repository or the associated data, please cite:
 
-P. Jharapla et al.,
+P.K.Jharapla et al.,
 *Geometric Control of Twist Angle in Moiré Heterobilayer Flakes*,
-Physical Review B (Year).
+arXiv:2510.18694 (2025).
+https://arxiv.org/abs/2510.18694
 
 ---
 
