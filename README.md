@@ -39,11 +39,17 @@ Figure5/
 ```
 Typical structure: Homobilayer
 ```
+FigureS1/
+FigureS2/
+FigureS3/
+FigureS4/
 FigureS5/
 FigureS6/
 FigureS7/
 FigureS8/
 FigureS9/
+FigureS10/
+FigureS11/
 ```
 
 Each figure directory contains the data files and plotting scripts used to generate the corresponding figure.
