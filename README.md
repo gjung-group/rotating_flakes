@@ -95,7 +95,7 @@ Each figure directory contains the data and scripts necessary to reproduce the a
 For example:
 
 ```
-cd Hetrobilayer_GBN/Figure2
+cd Hetrobilayer_GBN/Figure2/Armchair
 python plot.py
 ```
 
