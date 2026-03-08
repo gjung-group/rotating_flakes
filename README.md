@@ -1,4 +1,7 @@
 # Rotating Flakes in Graphene / hBN Systems
+
+[![DOI](https://zenodo.org/badge/1144689518.svg)](https://doi.org/10.5281/zenodo.18914172)
+
 The repository is organized into two main folders. Each folder further contains subdirectories corresponding to two edge types: Armchair and Zigzag.
 
 Heterobilayer – Contains data and input files for graphene–hBN systems used to generate the figures in the manuscript.
